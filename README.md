@@ -1,6 +1,6 @@
 Hey there!
 
-Welcome to my Student Management System project. I know it's a simple project, but I'm excited to share it with you! I've just finished a basic Python course, and I created this because I'm really curious about programming. It's my way of putting what I've learned into practice.
+Welcome to my "Student Management System project". I know it's a simple project, but I'm excited to share it with you! I've just finished a basic Python course, and I created this because I'm really curious about programming. It's my way of putting what I've learned into practice.
 
 This Python-based Student Management System provides a simple yet effective way to manage student information and grades. It's designed for use by school administrators and teachers to keep track of student data and academic performance.
 
